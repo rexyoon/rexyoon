@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rexyoon
 - 👀 I’m interested in bodybuilding
+- I learned and know how to use java, js, react, css, html, spring tool
 - 🌱 I’m currently learning java,jsnode,html, and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
