@@ -71,8 +71,8 @@
 | 프로젝트 | 설명 | 역할 |
 |--------|------|------|
 | **KDT Code Architect** | 개발자 역량 강화를 위한 학습·프로젝트 아카이빙 조직 | Backend / Frontend |
-| **SoomTeum (숨틈)** | 휴식과 마음 회복을 주제로 한 서비스 프로젝트 | Backend / Frontend |
-
+| **SoomTeum (숨틈)** | 휴식과 마음 회복을 주제로 한 서비스 프로젝트 |Frontend |
+| **AiHealthCare** | 개인프로젝트로 헬스와 건강 자체에 관심도 있었고 관련 프로젝트를 해보고 싶어 개인으로 시작| Backend / Frontend |
 ---
 
 ### 🔗 Project Links
@@ -97,7 +97,7 @@
 
 
 ## 📌 Currently Learning
-
+- node.js, mongoDB를 더 깊이 공부해보고 싶어 공부 중
 - Spring 심화 (트랜잭션, 성능 최적화)
 - REST API 설계 개선
 - React 상태 관리 패턴
