@@ -7,7 +7,107 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-rexyoon/rexyoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Jaeyoon-Jung
+## 👋 About Me
+- 👋 Hi, I’m @rexyoon
+- 👀 I’m interested in bodybuilding
+- I learned and know how to use java, js, react, css, html, spring tool
+- 🌱 I’m currently learning java, jsnode, html, unity, c#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: send a message to @r.e.x_yoon in instagram or happyjj407@naver.com in email
+
+프론트엔드와 백엔드를 모두 이해하고 다룰 수 있는 개발자를 목표로  
+하나하나 직접 만들며 **꾸준히 성장 중인 개발자**입니다.
+
+단순히 “사용하는 기술”에 그치지 않고  
+**왜 이렇게 동작하는지**, **어떻게 더 나아질 수 있는지**를 고민하며  
+프로젝트 중심으로 학습하고 있습니다.
+
+---
+
+## 🧠 Development Focus
+
+- 프론트엔드와 백엔드 흐름을 모두 이해하는 **풀스택 역량 강화**
+- 실제 서비스 구조를 고려한 **Spring 기반 백엔드 설계**
+- 사용자 경험을 고려한 **React 기반 프론트엔드 구현**
+- 개인 프로젝트를 통한 실전 감각 축적
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend (주로 사용)
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+
+- Spring Boot  
+- JPA  
+- MyBatis  
+- MySQL  
+
+---
+
+### 🔹 Frontend (주로 사용)
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
+
+- React  
+- Tailwind CSS  
+- HTML  
+- CSS  
+
+---
+
+## 🚀 Projects
+
+> 실제로 기획부터 구현까지 직접 진행한 프로젝트 위주로 관리하고 있습니다.
+
+| 프로젝트 | 설명 | 역할 |
+|--------|------|------|
+| AI Healthcare Service | 헬스케어 데이터 기반 웹 서비스 | Backend / Frontend |
+| Personal Portfolio | 개인 포트폴리오 웹사이트 | Frontend |
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=rexyoon&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexyoonD&layout=compact&theme=dark" />
+
+---
+## 🚀 Projects
+
+> 실제로 기획부터 구현까지 직접 참여하며 진행한 프로젝트들입니다.
+
+| 프로젝트 | 설명 | 역할 |
+|--------|------|------|
+| **KDT Code Architect** | 개발자 역량 강화를 위한 학습·프로젝트 아카이빙 조직 | Backend / Frontend |
+| **SoomTeum (숨틈)** | 휴식과 마음 회복을 주제로 한 서비스 프로젝트 | Backend / Frontend |
+
+---
+
+### 🔗 Project Links
+
+- 🔹 **KDT Code Architect**  
+  👉 https://github.com/kdt-codearchitect  
+
+- 🔹 **SoomTeum (숨틈)**  
+  👉https://github.com/SoomTeum/frontend
+
+- 🔹 **스몰프로젝트**
+  👉https://github.com/10wook/pokemon_mini_v2
+
+  **진행 중인 프로젝트**
+  
+- 🔹 **개인프로젝트 (AIHealthCareBack)**  
+  👉https://github.com/rexyoon/AIHealthCareBack
+  
+- 🔹 **개인프로젝트 (AIHealthCareFront)**  
+  👉https://github.com/rexyoon/AIHealthCare
+  
+
+
+## 📌 Currently Learning
+
+- Spring 심화 (트랜잭션, 성능 최적화)
+- REST API 설계 개선
+- React 상태 관리 패턴
+- 실무에 가까운 프로젝트 구조 설계
