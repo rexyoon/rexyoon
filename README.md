@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Backend (주로 사용)
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,jpa,mybatis,docker" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker" />
 
 - Spring Boot  
 - JPA  
