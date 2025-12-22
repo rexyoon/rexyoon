@@ -28,14 +28,20 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Backend (주로 사용)
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernater" />
 
 - Spring Boot  
 - JPA  
 - MyBatis  
-- MySQL  
-- Docker
+- MySQL
+
+
 ---
+### 🔹 DevOps (주로 사용)
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+-Docker
+---
+
 
 ### 🔹 Frontend (주로 사용)
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,node.js" />
