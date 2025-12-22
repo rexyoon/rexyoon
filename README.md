@@ -82,6 +82,7 @@
   👉https://github.com/SoomTeum/frontend
 
 - 🔹 **스몰프로젝트**
+- 
   👉https://github.com/10wook/pokemon_mini_v2
 
   **진행 중인 프로젝트**
