@@ -28,8 +28,9 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Backend (주로 사용)
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernater" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
 - Spring Boot  
 - JPA  
 - MyBatis  
