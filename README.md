@@ -38,7 +38,7 @@
 
 ---
 ### 🔹 DevOps (주로 사용)
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+<img src="https://skillicons.dev/icons?i=docker" />
 -Docker
 ---
 
