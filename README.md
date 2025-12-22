@@ -44,18 +44,6 @@
 - Tailwind CSS  
 - HTML  
 - CSS  
-
----
-
-## 🚀 Projects
-
-> 실제로 기획부터 구현까지 직접 진행한 프로젝트 위주로 관리하고 있습니다.
-
-| 프로젝트 | 설명 | 역할 |
-|--------|------|------|
-| AI Healthcare Service | 헬스케어 데이터 기반 웹 서비스 | Backend / Frontend |
-| Personal Portfolio | 개인 포트폴리오 웹사이트 | Frontend |
-
 ---
 
 ## 📊 GitHub Stats
