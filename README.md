@@ -38,7 +38,7 @@
 ---
 
 ### 🔹 Frontend (주로 사용)
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js" />
 
 - React  
 - Tailwind CSS  
