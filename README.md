@@ -1,11 +1,8 @@
 # Jaeyoon-Jung
 ## 👋 About Me
-- 👋 Hi, I’m @rexyoon
-- 👀 I’m interested in bodybuilding
-- I learned and know how to use java, js, react, css, html, spring tool
-- 🌱 I’m currently learning java, jsnode, html, unity, c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: send a message to @r.e.x_yoon in instagram or happyjj407@naver.com in email
+제 공부 진행에 대해 궁금하시면
+제 노션 주소입니다-> 한번 봐주세요 https://www.notion.so/8c66efec86254e148751df78200b5709?source=copy_link
+
 
 프론트엔드와 백엔드를 모두 이해하고 다룰 수 있는 개발자를 목표로  
 하나하나 직접 만들며 **꾸준히 성장 중인 개발자**입니다.
