@@ -25,7 +25,7 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Backend/ DB(주로 사용)
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,gradle" />
 <!-- <img height="48" src="./assets/jpa.svg" /> -->
 <!-- <img height="48" src="./assets/mybatis.svg" /> -->
 
@@ -33,7 +33,7 @@
 
 ---
 ### 🔹 DevOps/Tools (주로 사용)
-<img src="https://skillicons.dev/icons?i=docker,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,vscode,git,github,idea" />
 
 
 ---
