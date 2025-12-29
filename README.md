@@ -31,10 +31,7 @@
 <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <!-- <img height="48" src="./assets/jpa.svg" /> -->
 <!-- <img height="48" src="./assets/mybatis.svg" /> -->
-- Spring Boot  
-- JPA  
-- MyBatis  
-- MySQL
+
 
 
 ---
@@ -46,14 +43,6 @@
 
 
 ---
-### 🔹ETC (주로 사용)
-<img src="https://skillicons.dev/icons?i=docker" />
- - Docker
-
-
-
----
-
 ### 🔹 Frontend (주로 사용)
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,node.js" />
 
