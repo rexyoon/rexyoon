@@ -26,8 +26,6 @@
 
 ### 🔹 Backend/ DB(주로 사용)
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" />
 <!-- <img height="48" src="./assets/jpa.svg" /> -->
 <!-- <img height="48" src="./assets/mybatis.svg" /> -->
 
@@ -35,22 +33,13 @@
 
 ---
 ### 🔹 DevOps/Tools (주로 사용)
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=git/github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<img src="https://skillicons.dev/icons?i=docker,vscode,git,github" />
 
 
 ---
 ### 🔹 Frontend (주로 사용)
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,node.js" />
 
-- React  
-- Tailwind CSS  
-- HTML  
-- CSS
-- typescript
-- node.js
 ---
 
 
