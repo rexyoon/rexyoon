@@ -37,6 +37,8 @@
 ---
 ### 🔹 DevOps/Tools (주로 사용)
 <img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git/github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
  - Docker
  - Git / GitHub
  - VS Code
@@ -53,7 +55,6 @@
 - typescript
 - node.js
 ---
-<img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,redis,rabbitmq,swagger,docker,nginx,githubactions" />
 
 
 ## 📊 GitHub Stats
