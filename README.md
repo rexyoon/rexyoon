@@ -28,7 +28,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" />
-<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <!-- <img height="48" src="./assets/jpa.svg" /> -->
 <!-- <img height="48" src="./assets/mybatis.svg" /> -->
 
@@ -39,9 +38,7 @@
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=git/github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
- - Docker
- - Git / GitHub
- - VS Code
+
 
 
 ---
