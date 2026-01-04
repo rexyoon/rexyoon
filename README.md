@@ -31,7 +31,7 @@ project popcorn :https://www.figma.com/design/0hrrc2wlnNbxKwWnlQyqht/Project-Pop
 ## 🛠 Tech Stack
 
 ### 🔹 Backend/ DB(주로 사용)
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,gradle" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,gradle,c, c++" />
 <!-- <img height="48" src="./assets/jpa.svg" /> -->
 <!-- <img height="48" src="./assets/mybatis.svg" /> -->
 
