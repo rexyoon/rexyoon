@@ -44,7 +44,7 @@ project popcorn :https://www.figma.com/design/0hrrc2wlnNbxKwWnlQyqht/Project-Pop
 
 ---
 ### 🔹 Frontend (주로 사용)
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,node.js,next.js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,node.js,vite" />
 
 ---
 
