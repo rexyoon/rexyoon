@@ -24,22 +24,29 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Backend (주로 사용)
+
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,gradle" />
 
 ---
 
 🔹 Frontend (주로 사용)
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,vite,next,nodejs" />
 
 ---
 
 🔹 DevOps / Tools
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode" />
 
 ---
 
 🔹 Collaboration / Design Tools
+
 <img src="https://skillicons.dev/icons?i=jira,figma,notion,slack,discord" />
+
+---
+
 
 ---
 ## 🚀 Projects
