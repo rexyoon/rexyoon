@@ -56,8 +56,9 @@
 | 프로젝트 | 설명 | 역할 |
 |--------|------|------|
 | AI Healthcare Service | 헬스케어 데이터 기반 웹 서비스 | Backend / Frontend |
+| popcon | kdt-ai활용 리테일 서비스 개발 | Backend / Frontend |
 | Personal Portfolio | 개인 포트폴리오 웹사이트 | Frontend |
-
+| 숨틈 | 한국관광공사 데이터활용 공모전 장려상 | Frontend |
 ---
 
 ## 📊 GitHub Stats
