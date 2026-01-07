@@ -45,8 +45,6 @@
 
 <img src="https://skillicons.dev/icons?i=jira,figma,notion,slack,discord" />
 
----
-
 
 ---
 ## 🚀 Projects
@@ -66,15 +64,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rexyoon&show_icons=true&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexyoonD&layout=compact&theme=dark" />
 
----
-## 🚀 Projects
-
-> 실제로 기획부터 구현까지 직접 참여하며 진행한 프로젝트들입니다.
-
-| 프로젝트 | 설명 | 역할 |
-|--------|------|------|
-| **KDT Code Architect** | 개발자 역량 강화를 위한 학습·프로젝트 아카이빙 조직 | Backend / Frontend |
-| **SoomTeum (숨틈)** | 휴식과 마음 회복을 주제로 한 서비스 프로젝트 | Backend / Frontend |
 
 ---
 
