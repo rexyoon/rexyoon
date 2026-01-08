@@ -31,7 +31,7 @@ Interested in **backend architecture, frontend UX**, and integrating **AI into r
 
 🔹 DevOps / Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode, n8n" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode" />
 
 ---
 
