@@ -6,7 +6,6 @@ I care about **structure, flow, and scalability**, and constantly review my work
 Interested in **backend architecture, frontend UX**, and integrating **AI into real services**.
 
 ---
-
 ## 🧠 Development Focus
 
 - 프론트엔드와 백엔드 흐름을 모두 이해하는 **풀스택 역량 강화**
@@ -64,21 +63,26 @@ Interested in **backend architecture, frontend UX**, and integrating **AI into r
 
 ### 🔗 Project Links
 
-- 🔹 **KDT Code Architect**  
+- 🔹 **KDT Code Architect**
+- 
   👉 https://github.com/kdt-codearchitect  
 
-- 🔹 **SoomTeum (숨틈)**  
+- 🔹 **SoomTeum (숨틈)**
+- 
   👉https://github.com/SoomTeum/frontend
 
 - 🔹 **스몰프로젝트**
+- 
   👉https://github.com/10wook/pokemon_mini_v2
 
   **진행 중인 프로젝트**
   
-- 🔹 **개인프로젝트 (AIHealthCareBack)**  
+- 🔹 **개인프로젝트 (AIHealthCareBack)**
+- 
   👉https://github.com/rexyoon/AIHealthCareBack
   
-- 🔹 **개인프로젝트 (AIHealthCareFront)**  
+- 🔹 **개인프로젝트 (AIHealthCareFront)**
+- 
   👉https://github.com/rexyoon/AIHealthCare
   
 
