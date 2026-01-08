@@ -37,7 +37,7 @@ Interested in **backend architecture, frontend UX**, and integrating **AI into r
 
 🔹 Collaboration / Design Tools
 
-<img src="https://skillicons.dev/icons?i=jira,figma,notion,slack,discord" />
+<img src="https://skillicons.dev/icons?i=figma,notion,discord" />
 
 
 ---
