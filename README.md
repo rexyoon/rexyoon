@@ -1,9 +1,9 @@
 👋 Hi, I'm Jaeyoon.
 
 A project-driven developer who learns by building.
-I care about **structure, flow, and scalability**, and constantly review my work to improve it.
+I care about structure, flow, and scalability, and constantly review my work to improve it.
 
-Interested in **backend architecture, frontend UX**, and integrating **AI into real services**.
+Interested in backend architecture, frontend UX, and integrating AI into real services.
 
 ---
 ## 🧠 Development Focus
@@ -88,7 +88,7 @@ Interested in **backend architecture, frontend UX**, and integrating **AI into r
 
 
 ## 📌 Currently Learning
-
+- (주)Heron 디자이너 
 - Spring 심화 (트랜잭션, 성능 최적화)
 - REST API 설계 개선
 - React 상태 관리 패턴
