@@ -88,7 +88,6 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 
 ## 📌 Currently Learning
-- (주)Heron 디자이너 
 - Spring 심화 (트랜잭션, 성능 최적화)
 - REST API 설계 개선
 - React 상태 관리 패턴
