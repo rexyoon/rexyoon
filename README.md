@@ -25,7 +25,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 🔹 Frontend (주로 사용)
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,vite,next,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,vite,next,nodejs, three.js" />
 
 ---
 
