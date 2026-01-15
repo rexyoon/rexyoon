@@ -64,25 +64,21 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 ### 🔗 Project Links
 
 - 🔹 **KDT Code Architect**
-- 
   👉 https://github.com/kdt-codearchitect  
 
 - 🔹 **SoomTeum (숨틈)**
-- 
   👉https://github.com/SoomTeum/frontend
 
 - 🔹 **스몰프로젝트**
-- 
   👉https://github.com/10wook/pokemon_mini_v2
+  
 
   **진행 중인 프로젝트**
   
 - 🔹 **개인프로젝트 (AIHealthCareBack)**
-- 
   👉https://github.com/rexyoon/AIHealthCareBack
   
 - 🔹 **개인프로젝트 (AIHealthCareFront)**
-
   👉https://github.com/rexyoon/AIHealthCare
 
 
