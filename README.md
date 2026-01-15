@@ -84,8 +84,9 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 - 🔹 **개인프로젝트 (AIHealthCareFront)**
 - 
   👉https://github.com/rexyoon/AIHealthCare
-  
 
+  - 🔹 **3D작업 (Heron3D)**
+  👉https://github.com/rexyoon/HeronFront3D.git
 
 ## 📌 Currently Learning
 - Spring 심화 (트랜잭션, 성능 최적화)
