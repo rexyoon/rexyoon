@@ -57,7 +57,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=rexyoon&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexyoonD&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexyoon&layout=compact&theme=dark" />
 
 
 ---
