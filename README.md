@@ -12,6 +12,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 - 실제 서비스 구조를 고려한 **Spring 기반 백엔드 설계**
 - 사용자 경험을 고려한 **React 기반 프론트엔드 구현**
 - 개인 프로젝트를 통한 실전 감각 축적
+- 사용자 요구사항 기반으로 디자인
 
 ---
 
