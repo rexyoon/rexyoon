@@ -20,7 +20,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 ### 🔹 Backend (주로 사용)
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,gradle,python,c++ " />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,gradle,python,c " />
 
 ---
 
