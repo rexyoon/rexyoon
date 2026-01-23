@@ -46,7 +46,8 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 🔹 ETC
 
-<img src="https://skillicons.dev/icons?i=security" />
+![JWT](https://img.shields.io/badge/Security-JWT-blue?logo=jsonwebtokens&logoColor=white)
+
 
 
 
