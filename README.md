@@ -42,6 +42,14 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 
 ---
+
+
+🔹 ETC
+
+<img src="https://skillicons.dev/icons?i= jwt" />
+
+
+---
 ## 🚀 Projects
 
 > 실제로 기획부터 구현까지 직접 진행한 프로젝트 위주로 관리하고 있습니다.
