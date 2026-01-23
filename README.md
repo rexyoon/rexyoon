@@ -46,7 +46,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 🔹 ETC
 
-<img src="https://skillicons.dev/icons?i=spring,security" />
+<img src="https://skillicons.dev/icons?i=security" />
 
 
 
