@@ -1,9 +1,10 @@
-👋 Hi, I'm Jaeyoon.
+👋 im jaeyoon
 
 A project-driven developer who learns by building.
 I care about structure, flow, and scalability, and constantly review my work to improve it.
 
 Interested in backend architecture, frontend UX, and integrating AI into real services.
+
 
 ---
 ## 🧠 Development Focus
