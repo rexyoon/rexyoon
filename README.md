@@ -97,6 +97,15 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
  - 🔹 **3D작업 (Heron3D)**
   👉https://github.com/rexyoon/HeronFront3D.git
 
+
+ - 🔹 **AI 위스키 추천 시스템 (백(SPRING))**
+  👉https://github.com/rexyoon/whiskey-recommendation.git
+
+
+ - 🔹 **WAY AI 시스템(BACK(PYTHON)**
+  👉https://github.com/rexyoon/way-ai-services.git
+
+
 ## 📌 Currently Learning
 - Spring 심화 (트랜잭션, 성능 최적화)
 - REST API 설계 개선
