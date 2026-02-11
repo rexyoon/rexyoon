@@ -64,6 +64,8 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 | popcon | kdt-ai활용 리테일 서비스 개발 | Backend / Frontend |
 | Personal Portfolio | 개인 포트폴리오 웹사이트 | Frontend |
 | 숨틈 | 한국관광공사 데이터활용 공모전 장려상 | Frontend |
+| AIWHISKEY SERVICE | AI를 활용한 위스키 추천 서비스 | Frontend/Backend |
+| aiway | ai를 활용한 차 추천 및 자동 설정 시스템 | Backend |
 ---
 
 ## 📊 GitHub Stats
