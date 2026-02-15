@@ -105,6 +105,10 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
   👉https://github.com/rexyoon/whiskey-recommendation.git
 
 
+ - 🔹 **AI 위스키 추천 시스템(프론트)**
+  👉https://github.com/rexyoon/whiskey-frontend.git
+
+
  - 🔹 **WAY AI 시스템(BACK(PYTHON)**
   👉https://github.com/rexyoon/way-ai-services.git
 
