@@ -17,7 +17,6 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 - AI를 활용한 프로젝트
 
 ---
-
 ## 🛠 Tech Stack
 
 ### 🔹 Backend (주로 사용)
@@ -26,24 +25,35 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 
 ---
 
-🔹 Frontend (주로 사용)
+### 🔹 Frontend (주로 사용)
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,js,vite,next,nodejs" />
 
 ---
 
-🔹 DevOps / Tools
+### 🔹 DevOps / Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
 
 ---
 
-🔹 Collaboration / Design Tools
+### 🔹 AWS (Server & Infra)
+
+![EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws&logoColor=white)
+![Route53](https://img.shields.io/badge/AWS-Route53-yellow?logo=amazonaws&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deploy-AWS-success?logo=amazonaws&logoColor=white)
+
+---
+
+### 🔹 Collaboration / Design Tools
 
 <img src="https://skillicons.dev/icons?i=figma,notion,discord" />
 
-
 ---
+
+### 🔹 ETC
+
+![JWT](https://img.shields.io/badge/Security-JWT-blue?logo=jsonwebtokens&logoColor=white)
 
 
 🔹 ETC
