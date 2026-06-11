@@ -78,7 +78,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 | **POP:CON** | 온라인 편의점 쇼핑몰 (JWT·결제·지도검색, 6인/4주) | Backend (팀) | [BE](https://github.com/kdt-codearchitect/project_popcon) · [FE](https://github.com/kdt-codearchitect/project_popcon_react) |
 | **KoALa** | 아트소품 판매 포털 (웹+모바일) | Full-stack (1인) | [back](https://github.com/heron-Arso/KoALa-back) · [web](https://github.com/heron-Arso/Koalaweb) · [mobile](https://github.com/heron-Arso/KoALa-mobile) |
 | **JARVIS** | 제스처 인식 기반 AI 비서 시스템 | Full-stack (1인) | [back](https://github.com/codebuilderrex/javis-backend) · [front](https://github.com/codebuilderrex/jarvis-frontend) |
-| **Hancare** | AI 기반 헬스케어 서비스 | Backend (1인) | [back](https://github.com/hancare-orgnazation/hancare-back) |
+| **Hancare** | 병원 찾기 서비스 | Backend (1인) | [back](https://github.com/hancare-orgnazation/hancare-back) |
 | **MuYang (무양)** | 반려동물 용품 이커머스 (웹+백엔드) | Full-stack (1인) | [app](https://github.com/muyangshop/muyangApp) · [BE](https://github.com/muyangshop/muyangBE) |
 
 ---
@@ -92,7 +92,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 **1인 개발 프로젝트**
 - 🎨 **KoALa** (아트소품 포털) 👉 <https://github.com/heron-Arso>
 - 🤖 **JARVIS** (AI 비서) 👉 <https://github.com/codebuilderrex>
-- 🩺 **Hancare** (AI 헬스케어) 👉 <https://github.com/hancare-orgnazation>
+- 🩺 **Hancare** ( 병원 찾기 서비스 ) 👉 <https://github.com/hancare-orgnazation>
 - 🐾 **MuYang** (반려동물 이커머스) 👉 <https://github.com/muyangshop>
 ## 📌 Currently Learning
 - Spring 심화 (트랜잭션, 성능 최적화)
