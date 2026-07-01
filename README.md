@@ -78,7 +78,7 @@ Interested in backend architecture, frontend UX, and integrating AI into real se
 | **POP:CON** | 온라인 편의점 쇼핑몰 (JWT·결제·지도검색, 6인/4주) | Backend (팀) | [BE](https://github.com/kdt-codearchitect/project_popcon) · [FE](https://github.com/kdt-codearchitect/project_popcon_react) |
 | **KoALa** | 아트소품 판매 포털 (웹+모바일) | Full-stack (1인) | [back](https://github.com/heron-Arso/KoALa-back) · [web](https://github.com/heron-Arso/Koalaweb) · [mobile](https://github.com/heron-Arso/KoALa-mobile) |
 | **JARVIS** | 제스처 인식 기반 AI 비서 시스템 | Full-stack (1인) | [back](https://github.com/codebuilderrex/javis-backend) · [front](https://github.com/codebuilderrex/jarvis-frontend) |
-| **Hancare** | 병원 찾기 서비스 | Backend (1인) | [back](https://github.com/hancare-orgnazation/hancare-back) |
+| **Hancare** | 병원 찾기 서비스 | Backend (1인) | [back](https://github.com/hancare-orgnazation/hancare-back) [front](https://github.com/hancare-orgnazation/hancare-app)|
 | **MuYang (무양)** | 반려동물 용품 이커머스 (웹+백엔드) | Full-stack (1인) | [app](https://github.com/muyangshop/muyangApp) · [BE](https://github.com/muyangshop/muyangBE) |
 
 ---
