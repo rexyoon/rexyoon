@@ -101,8 +101,8 @@ LLM 판단을 받아 실행까지 이어지는 파이프라인.
 | [**KoALa**](https://github.com/heron-Arso) | 아트소품 이커머스 (웹 + 모바일, 토스페이먼츠) | Full-stack · 1인 | 🟢 실서비스 |
 | [**숨 여행, 틈**](https://github.com/SoomTeum) | 🏆 2025 한국관광공사 공모전 수상작 | Frontend · 팀 | ✅ 완료 |
 | [**POP:CON**](https://github.com/kdt-codearchitect) | 온라인 편의점 쇼핑몰 (JWT·결제·지도) | Backend · 6인 | ✅ 완료 |
-| [**Hancare**](https://github.com/hancare-orgnazation) | 한의원 예약·검색 (노인/일반 이중 UI) | Full-stack · 1인 | 🔨 개발 중 |
-| [**MuYang**](https://github.com/muyangshop) | 반려동물 용품 이커머스 (앱 + 백엔드) | Full-stack · 1인 | 🔨 개발 중 |
+| [**Hancare**](https://github.com/hancare-orgnazation) | 한의원 예약·검색 (노인/일반 이중 UI) | Full-stack · 1인 | 🟢배포 중|
+| [**MuYang**](https://github.com/muyangshop) | 반려동물 용품 이커머스 (앱 + 백엔드) | Full-stack · 1인 | 🟢배포 중 |
 | [**JARVIS**](https://github.com/codebuilderrex) | 제스처 인식 기반 AI 비서 | Full-stack · 1인 | ✅ 완료 |
 
 <br>
