@@ -4,6 +4,8 @@
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2D5BA8&center=true&vCenter=true&width=650&lines=화면부터+서버까지+끝까지+만듭니다;문제가+생기면+증상이+아니라+원인을+찾습니다;LLM을+실제+서비스에+연결합니다)](https://git.io/typing-svg)
 
+
+내 블로그: https://rexyoon.github.io/
 <a href="mailto:happyjj407@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/rexyoon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
