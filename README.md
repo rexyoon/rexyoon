@@ -105,6 +105,7 @@ LLM 판단을 받아 실행까지 이어지는 파이프라인.
 | [**Hancare**](https://github.com/hancare-orgnazation) | 한의원 예약·검색 (노인/일반 이중 UI) | Full-stack · 1인 | 🟢배포 중|
 | [**MuYang**](https://github.com/muyangshop) | 반려동물 용품 이커머스 (앱 + 백엔드) | Full-stack · 1인 | 🟢배포 중 |
 | [**JARVIS**](https://github.com/codebuilderrex) | 제스처 인식 기반 AI 비서 | Full-stack · 1인 | ✅ 완료 |
+| [**Atlantis**](https://github.com/atlantispicture) | 지구본 여행 사진 저장 앱 | Full-stack · 1인 |  🛠 개발 중  |
 
 <br>
 
