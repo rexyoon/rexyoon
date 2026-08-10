@@ -109,16 +109,6 @@ LLM 판단을 받아 실행까지 이어지는 파이프라인.
 
 <br>
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rexyoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexyoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rexyoon&theme=darkhub&no-frame=true&column=7&margin-w=6" />
-
-</div>
 
 <br>
 
