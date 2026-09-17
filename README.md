@@ -24,6 +24,23 @@ https://rexyoon.github.io/
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🏠 MONSTER HOUSE &nbsp;`운영 중 · LIVE`
+
+보디빌딩 미디어 브랜드의 공식 웹사이트를 **백엔드 · 프론트 · 배포까지 혼자**.
+예약 동시성을 **3단 방어**(`FOR UPDATE` 락 → 겹침 쿼리 → `UNIQUE(slot_key)`)로 막고,
+한국어·일본어를 **UI 문자열과 콘텐츠 두 층위**로 분리했습니다.
+AWS Lightsail + Docker Compose + **Caddy 자동 HTTPS** 로 배포하고,
+**GitHub Actions → SSH 자동배포(CI/CD)** 까지 구축해 실제 운영 중입니다.
+
+`Java 21` `Spring Boot` `React` `TypeScript` `MySQL` `Docker` `Caddy` `AWS`
+
+[사이트 →](https://monsterhouse.co.kr) &nbsp;·&nbsp; [레포 →](https://github.com/MonsterHouseStudio)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 주식 투자 AI 에이전트
@@ -98,6 +115,7 @@ LLM 판단을 받아 실행까지 이어지는 파이프라인.
 
 | 프로젝트 | 설명 | 역할 | 상태 |
 | --- | --- | --- | :---: |
+| [**MONSTER HOUSE**](https://monsterhouse.co.kr) | 보디빌딩 미디어 · 촬영 예약 · 한일 통역 (예약 동시성 3단 방어, CI/CD) | Full-stack · 1인 | 🟢 운영 중 |
 | [**주식 투자 AI 에이전트**](https://github.com/rexyoon/stock_agent) | 증권사 API + LLM 기반 투자 판단 파이프라인 | Backend · 1인 | 🟢 운영 중 |
 | [**KoALa**](https://github.com/heron-Arso) | 아트소품 이커머스 (웹 + 모바일, 토스페이먼츠) | Full-stack · 1인 | 🟢 실서비스 |
 | [**숨 여행, 틈**](https://github.com/SoomTeum) | 🏆 2025 한국관광공사 공모전 수상작 | Frontend · 팀 | ✅ 완료 |
