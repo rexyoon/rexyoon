@@ -26,22 +26,6 @@ https://rexyoon.github.io/
 <tr>
 <td colspan="2" valign="top">
 
-### 🏠 MONSTER HOUSE &nbsp;`운영 중 · LIVE`
-
-보디빌딩 미디어 브랜드의 공식 웹사이트를 **백엔드 · 프론트 · 배포까지 혼자**.
-예약 동시성을 **3단 방어**(`FOR UPDATE` 락 → 겹침 쿼리 → `UNIQUE(slot_key)`)로 막고,
-한국어·일본어를 **UI 문자열과 콘텐츠 두 층위**로 분리했습니다.
-AWS Lightsail + Docker Compose + **Caddy 자동 HTTPS** 로 배포하고,
-**GitHub Actions → SSH 자동배포(CI/CD)** 까지 구축해 실제 운영 중입니다.
-
-`Java 21` `Spring Boot` `React` `TypeScript` `MySQL` `Docker` `Caddy` `AWS`
-
-[사이트 →](https://monsterhouse.co.kr) &nbsp;·&nbsp; [레포 →](https://github.com/MonsterHouseStudio)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📈 주식 투자 AI 에이전트
 `운영 중`
