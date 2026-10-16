@@ -99,15 +99,10 @@ LLM 판단을 받아 실행까지 이어지는 파이프라인.
 
 | 프로젝트 | 설명 | 역할 | 상태 |
 | --- | --- | --- | :---: |
-| [**MONSTER HOUSE**](https://monsterhouse.co.kr) | 보디빌딩 미디어 · 촬영 예약 · 한일 통역 (예약 동시성 3단 방어, CI/CD) | Full-stack · 1인 | 🟢 운영 중 |
 | [**주식 투자 AI 에이전트**](https://github.com/rexyoon/stock_agent) | 증권사 API + LLM 기반 투자 판단 파이프라인 | Backend · 1인 | 🟢 운영 중 |
 | [**KoALa**](https://github.com/heron-Arso) | 아트소품 이커머스 (웹 + 모바일, 토스페이먼츠) | Full-stack · 1인 | 🟢 실서비스 |
 | [**숨 여행, 틈**](https://github.com/SoomTeum) | 🏆 2025 한국관광공사 공모전 수상작 | Frontend · 팀 | ✅ 완료 |
 | [**POP:CON**](https://github.com/kdt-codearchitect) | 온라인 편의점 쇼핑몰 (JWT·결제·지도) | Backend · 6인 | ✅ 완료 |
-| [**Hancare**](https://github.com/hancare-orgnazation) | 한의원 예약·검색 (노인/일반 이중 UI) | Full-stack · 1인 | 🟢배포 중|
-| [**MuYang**](https://github.com/muyangshop) | 반려동물 용품 이커머스 (앱 + 백엔드) | Full-stack · 1인 | 🟢배포 중 |
-| [**JARVIS**](https://github.com/rexyoon/JarvisMK2) | 제스처 인식 기반 AI 비서 | Full-stack · 1인 | 🛠 개발 중|
-| [**Atlantis**](https://github.com/atlantispicture) | 지구본 여행 사진 저장 앱 | Full-stack · 1인 |  🛠 개발 중  |
 
 <br>
 
